@@ -3,7 +3,12 @@
 Hi! Im' a software developer, currently living in Brazil, Goiania.
 
 # Things I code
-
+ <div>
+  <a href="https://github.com/jonathanoliveira9">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanoliveira9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanoliveira9&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 <p>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
