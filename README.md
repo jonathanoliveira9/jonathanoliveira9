@@ -35,3 +35,5 @@ Hi! Im' a software developer, currently living in Brazil, Goiania.
 </p> -->
 
 ## 
+ 
+ ![Snake animation](https://github.com/jonathanoliveira9/jonathanoliveira9/blob/output/github-contribution-grid-snake.svg)
