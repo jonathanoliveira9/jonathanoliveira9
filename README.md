@@ -19,7 +19,9 @@ Hi! Im' a software developer, currently living in Brazil, Goiania.
   <img align="center" alt="Jonathan-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jonathan-Rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
     <img align="center" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="30"/>
-
+   
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="30"/>
+          
  ##
 <div> 
 
